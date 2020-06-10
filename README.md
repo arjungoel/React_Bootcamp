@@ -1,6 +1,6 @@
 # React_Bootcamp :smiley:
 
-Day 1:-
+Day 1:-  :smile:
 
 * Basics of React
 * Difference between elements and components in React
